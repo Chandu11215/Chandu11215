@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **kalalshannu19@gmail.com**
 
-- ⚡ Hobby **I spend my free time watchin cricket **
+- ⚡ Hobby ** I spend my free time watching cricket **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
