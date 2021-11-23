@@ -13,7 +13,7 @@
 - 💻 &nbsp; JavaScript | ES5 | ES6
 - 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks | Redux | Material UI
 - 💡 &nbsp; AJAX | JSON | Local Storage | API'S
-- 🔧 &nbsp; Git | Visual Studio Code | Atom | Postman | 
+- 🔧 &nbsp; Git | Visual Studio Code | Atom | Postman | Netlify | Git-Hub Pages
 
 <h3> 🤝🏻 Connect with Me </h3>
 
