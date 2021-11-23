@@ -1,25 +1,26 @@
-[![MasterHead](https://media.istockphoto.com/photos/react-concept-on-a-white-background-picture-id851600028)](https://chandu11215.github.io/Kalal-Portfolio)
-<h1 align="center">Hi 👋, I'm Chandrashekar</h1>
-<h3 align="center">A Passionate FrontEnd Developer always willing to learn new Things !!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Chandu11215&label=Profile%20views&color=129e00&style=plastic" alt="Chandu11215" /> </p>
+<h2> Hi there 👋, I’m Chandrashekar!</h2>
 
-- 👨‍💻 You can also check out my portfolio at [https://chandu11215.github.io/Kalal-Portfolio/](https://chandu11215.github.io/Kalal-Portfolio/)
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 📫 How to reach me **kalalshannu19@gmail.com**
+- 🕸️ &nbsp; Passionate about the **Web Development** and I want to explore in MERN Stack **simplify web for everyone**.
+- 🔭 &nbsp; Currently looking for opportunities as **React Developer (JavaScript, React, React-Hooks, Redux)** .
+- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- ⚡ Hobby ** I spend my free time watching cricket **
+<h3>🛠 Tech Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- 💻 &nbsp; JavaScript | ES5 | ES6
+- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks | Redux | Material UI
+- 💡 &nbsp; AJAX | JSON | Local Storage | API'S
+- 🔧 &nbsp; Git | Visual Studio Code | Atom | Postman | 
 
-<a href="https://www.linkedin.com/in/kalal-chandu/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Chandu11215" height="30" width="40" /></a>
-<a href="https://twitter.com/KALALSHANNU?t=h8_HoXTiQMvnNyuuI8KBJQ&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_Kalal Chandu" height="30" width="40" /></a>
+<h3> 🤝🏻 Connect with Me </h3>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandu11215&show_icons=true&locale=en&layout=compact" alt="Chandu11215" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chandu11215&show_icons=true&locale=en" alt="Chandu11215" /></p> -->
+<p align="center">
+<a href="https://www.linkedin.com/in/kalal-chandu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-M%20Kalal%20Chandrashekar-blue?style=flat&logo=linkedin"></a>
+<a href="https://github.com/Chandu11215"><img alt="Github" src="https://img.shields.io/badge/GitHub-Chandu11215-blue?style=flat&logo=github"></a>
+<a href="mailto:kalalshannu19@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kalalshannu19%40gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 
