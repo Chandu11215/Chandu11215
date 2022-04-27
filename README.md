@@ -4,14 +4,14 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; Passionate about the **Web Development** and I want to explore in MERN Stack and **simplify web for everyone**.
-- 🔭 &nbsp; Currently looking for opportunities as **React Developer (JavaScript, React, React-Hooks, Redux)** .
-- 🌱 &nbsp; Learning more about technologies that go into building **Full Stack Applications**.
+- 🔭 &nbsp; Currently looking for opportunities as **React Developer (JavaScript, React, React-Hooks)** .
+- 🌱 &nbsp; Learning more about technologies that go into building **Web and Mobile Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES5 | ES6
-- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks | Redux | Material UI
+- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks | Material UI
 - 💡 &nbsp; AJAX | JSON | Local Storage | API'S
 - 🔧 &nbsp; Git | Visual Studio Code | Atom | Postman | Netlify | Git-Hub Pages
 
