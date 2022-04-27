@@ -11,7 +11,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | ES5 | ES6
-- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks | Material UI
+- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | React-Hooks 
 - 💡 &nbsp; AJAX | JSON | Local Storage | API'S
 - 🔧 &nbsp; Git | Visual Studio Code | Atom | Postman | Netlify | Git-Hub Pages
 
