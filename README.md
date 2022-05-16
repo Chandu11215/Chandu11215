@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🕸️ &nbsp; Passionate about the **Web Development** and I want to explore in MERN Stack and **simplify web for everyone**.
-- 🔭 &nbsp; Currently looking for opportunities as **React Developer (JavaScript, React, React-Hooks)** .
+- 🔭 &nbsp; Currently Working as UI Engineer **React Developer (JavaScript, React, React-Hooks)** .
 - 🌱 &nbsp; Learning more about technologies that go into building **Web and Mobile Applications**.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
